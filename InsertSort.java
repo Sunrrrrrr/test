@@ -36,7 +36,7 @@ public class InsertSort {
 		// TODO 自动生成的方法存根
 		InsertSort insertSort = new InsertSort();
 
-		int[] a = { 2, 5, 77, 3, 66 };
+		int[] a = { 2, 5, 77, 3, 66       };
 
 		try {
 			insertSort.sort(a);
